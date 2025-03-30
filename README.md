@@ -1,5 +1,7 @@
 # Drag-and-Drop Todo List App In React
 
+**Live Demo:** [Drag and drop Todo App](https://vivek0902.github.io/Drag-and-drop-todoList-app-in-React/)
+
 ## Overview
 
 The **Drag-and-Drop Todo List App** is a simple yet powerful React application that allows users to manage their tasks efficiently. The app enables users to create, update, and delete tasks, as well as drag and drop tasks between different categories. The state of the tasks is stored in **localStorage**, ensuring that progress is retained even after a page refresh.
